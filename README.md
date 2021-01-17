@@ -6,7 +6,10 @@ Pythonで実行できるカードゲームです。
 # Demo
  
 [demo.py](demo.py)を参照してください。
- 
+
+# Usage
+[APIリファレンス](https://github.com/kotonefami/duelcraftpy/wiki/API-Reference)を参照してください。
+
 # Features
  
 小学生の頃にカードゲームを大量に作っていたのですが、中でも仕組みが簡単で拡張性があるものをDiscordのBotにして遊んでいました。

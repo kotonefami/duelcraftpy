@@ -7,7 +7,10 @@ A card game that can be run in Python.
 # Demo
  
 See [demo.py](demo.py).
- 
+
+# Usage
+See [API Reference](https://github.com/kotonefami/duelcraftpy/wiki/API-Reference).
+
 # Features
  
 When I was in elementary school, I made a lot of card games, but I used to play Discord bots with simple and expandable ones.
@@ -26,7 +29,7 @@ No required library.
  
 Download the [duelcraftpy](duelcraftpy) folder and import it.
 
-It also supports `` `from duelcraftpy import *` ``.
+It also supports ```from duelcraftpy import *```.
 
 # Author
  
