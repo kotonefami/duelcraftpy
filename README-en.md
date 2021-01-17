@@ -29,7 +29,7 @@ No required library.
  
 Download the [duelcraftpy](duelcraftpy) folder and import it.
 
-It also supports `` `from duelcraftpy import *` ``.
+It also supports ```from duelcraftpy import *```.
 
 # Author
  
