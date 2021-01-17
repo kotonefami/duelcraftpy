@@ -1,5 +1,5 @@
 # duelcraftpy
-English version is [here](README-en).
+English version is [here](README-en.md).
 
 Pythonで実行できるカードゲームです。
 
