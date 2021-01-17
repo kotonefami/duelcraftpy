@@ -1,6 +1,7 @@
 # duelcraftpy
 
 日本語版は[こちら](README.md)です。
+
 A card game that can be run in Python.
 
 # Demo
@@ -31,8 +32,8 @@ It also supports `` `from duelcraftpy import *` ``.
  
 This is Fami. I usually use DTM.
 
-[Twitter] (https://twitter.com/__fami__)
+[Twitter](https://twitter.com/__fami__)
  
 # License
 
-See the MIT License (https://en.wikipedia.org/wiki/MIT_License).
+See the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
