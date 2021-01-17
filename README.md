@@ -3,7 +3,7 @@ English version is [here](README-en.md).
 
 Pythonで実行できるカードゲームです。
 
-# DEMO
+# Demo
  
 [demo.py](demo.py)を参照してください。
  
